@@ -10,7 +10,7 @@
 - Инструменты: Docker/Git/REST API
 
 ## 📌 Избранные проекты
-- [Название проекта 1](https://github.com/<user>/<repo>) — краткое описание
+- [Currency_travel_bot](https://github.com/for9653960484/Currency_travel_bot.git) — Телеграм-бот для учета расходов в путешествиях и конвертации валют.
 - [Название проекта 2](https://github.com/<user>/<repo>) — краткое описание
 
 ## 📫 Контакты
