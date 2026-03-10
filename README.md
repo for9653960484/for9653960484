@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет! Я Александр 👋
+Практикую Python-разработку с 2024 года.
+До этого более 20 лет занимался оптимизацией процессов и снижением операционных издержек.
+В вайб-кодинге специализируюсь на автоматизации рутинных операций производственной, складской, логистической и офисной деятельности.
 
-<!--
-**for9653960484/for9653960484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Стек и инструменты
+- Языки: Python/JS
+- Фреймворки: Flask/FastAPI
+- Базы данных: PostgreSQL
+- Инструменты: Docker/Git/REST API
 
-Here are some ideas to get you started:
+## 📌 Избранные проекты
+- [Название проекта 1](https://github.com/<user>/<repo>) — краткое описание
+- [Название проекта 2](https://github.com/<user>/<repo>) — краткое описание
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Контакты
+- Email: for9653960484@gmail.com
+- Telegram: <ссылка>
+- LinkedIn: <ссылка>
+---
+⭐ Если мои проекты полезны — ставьте звёзды!
