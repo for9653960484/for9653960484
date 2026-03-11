@@ -16,14 +16,13 @@
 - Инструменты: Docker/Git/REST API
 
 ## 📌 Избранные проекты
+- [Bot_with_Memory](https://github.com/for9653960484/owl_memory_bot) — Телеграм-бот с долгосрочной памятью (AI-ассистент и советник по интересующим темам).
 - [Currency_travel_bot](https://github.com/for9653960484/Currency_travel_bot.git) — Телеграм-бот для учета расходов в путешествиях и конвертации валют.
-- [Название проекта 2](https://github.com/<user>/<repo>) — краткое описание
 
 ## 📫 Контакты
 - Email: for9653960484@gmail.com
 - LinkedIn: <https://www.linkedin.com/in/alexander-yabelov/>
 - Telegram: @yabelov76
 - <img width="395" height="463" alt="image" src="https://github.com/user-attachments/assets/f8f0d158-e2f4-497a-a922-7eb07754eb5d" />
-
 
 Давайте обсудим ваш запрос!
