@@ -21,7 +21,7 @@
 
 ## 📫 Контакты
 - Email: for9653960484@gmail.com
-- Telegram: @yabelov76 <img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/28aca089-3c58-417f-9157-dc4ea7dba87d" />
 - LinkedIn: <https://www.linkedin.com/in/alexander-yabelov/>
+- Telegram: @yabelov76 <img width="395" height="463" alt="image" src="https://github.com/user-attachments/assets/28aca089-3c58-417f-9157-dc4ea7dba87d" />
 
 Давайте обсудим ваш запрос!
