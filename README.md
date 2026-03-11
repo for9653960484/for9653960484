@@ -22,7 +22,7 @@
 ## 📫 Контакты
 - Email: for9653960484@gmail.com
 - LinkedIn: <https://www.linkedin.com/in/alexander-yabelov/>
-- Telegram: @yabelov76
+- Telegram: <https://t.me/yabelov76>
 - <img width="395" height="463" alt="image" src="https://github.com/user-attachments/assets/f8f0d158-e2f4-497a-a922-7eb07754eb5d" />
 
 Давайте обсудим ваш запрос!
