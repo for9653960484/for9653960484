@@ -23,6 +23,7 @@
 - Email: for9653960484@gmail.com
 - LinkedIn: <https://www.linkedin.com/in/alexander-yabelov/>
 - Telegram: @yabelov76
-  <img width="395" height="463" alt="image" src="https://github.com/user-attachments/assets/28aca089-3c58-417f-9157-dc4ea7dba87d" />
+- <img width="395" height="463" alt="image" src="https://github.com/user-attachments/assets/f8f0d158-e2f4-497a-a922-7eb07754eb5d" />
+
 
 Давайте обсудим ваш запрос!
